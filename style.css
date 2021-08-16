@@ -1,0 +1,17 @@
+body{
+    background: #0066ff;
+    
+}
+
+h1#one{
+    margin:100px;
+    color: #fff;
+    font-size: 150px;
+}
+
+h1#two{
+    margin: 150px;
+    color: #fff;
+    font-size: 150px;
+    writing-mode:vertical-lr;
+}
